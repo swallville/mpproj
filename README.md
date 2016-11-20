@@ -13,7 +13,7 @@ Installation
 ---------------
 Faça o checkout do projeto
  
-        $ git clone git@github.com:swallville/trab2.git
+        $ git clone https://github.com/swallville/mpproj.git
 
 Instale as bibliotecas de sistema necessárias para usar o programa:
 --------------------------------------------------------------------
